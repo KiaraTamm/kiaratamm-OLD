@@ -1,0 +1,14 @@
+{
+    "grant": {
+        "amount":1836450,
+        "address":"B7mmVdVQ1SNNcT9zuQRK1B3Cbvo8vHeoB1",
+        "custodianfee":36450,
+        "dividends":true,
+        "dividendrate":0.10,
+        "custodian_name":"Kiara Tamm",
+        "forum_account":"http://discuss.nubits.com/users/ktm",
+        "grant_submittal_date":"10-Sept-2014",
+        "grant_approval_date":"18-Sept-2014"
+    }
+    
+}

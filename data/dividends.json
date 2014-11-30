@@ -1,0 +1,15 @@
+{
+    "dividend": [
+        {
+            "id":1,
+            "payout_timestamp":1416539478,
+            "dividend_tx":"b7f3f769ac81322e60e339946d97411f85fca29a8689cb004b625a0e215e1640",
+            "amount":68306,
+            "currency":"PPC",
+            "exchange_rate":0.732,
+            "exchange_currency":"PPC/USD",
+            "addresses_paid":481,
+            "notes":""
+        }
+    ]
+}

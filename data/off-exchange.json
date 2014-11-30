@@ -1,0 +1,40 @@
+{
+    "off-exchange": [
+        {
+            "nbt-address":"B5BMEH2Z9ZE5cHFpFg9BJ4wYm9aeBFK34W",
+            "amount":380842.6311,
+            "source":"BTER NBT/BTC Adjustment",
+            "details":""
+        },
+        {
+            "nbt-address":"B8JE7acMiy58Vp3tiRGGm1GXevpBzDRPTJ",
+            "amount":140978.5251,
+            "source":"CCEDK NBT/USD Adjustment",
+            "details":"Includes a withdrawal of 24,996.5 NBT to fund CCEX NBT/USD"
+        },
+        {
+            "nbt-address":"B5xshH1sxTMMXkrkDu91r5HCNX9sTfmP4L",
+            "amount":313978.5251,
+            "source":"CCEDK NBT/PPC Adjustment",
+            "details":"Includes a withdrawal of 24,996.5 NBT to fund CCEDK NBT/EUR"
+        },
+        {
+            "nbt-address":"BGAv55c7ChwfXycxiqnL9YA8sPiKT7dzJq",
+            "amount":53159.1827,
+            "source":"CCEDK NBT/BTC Adjustment",
+            "details":"Includes a withdrawal of 24,996.5 NBT to fund CCEDK NBT/EUR"
+        },
+        {
+            "nbt-address":"B5H8JaCTkokoFkpFqbNeXsE4YEPnHUmDG9",
+            "amount":25000.9000,
+            "source":"CCEX Withdrawal",
+            "details":""
+        },
+        {
+            "nbt-address":"",
+            "amount":350000.0000,
+            "source":"Remaining Grant",
+            "details":"Spread amongst various addresses due to how pre- Coin Control versions of Nu handle output transactions in the wallet."
+        }      
+    ]
+}

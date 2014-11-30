@@ -1,0 +1,38 @@
+{"options": 
+    {
+    "exchangename":"ccedk",
+    "apikey": "5LQKSW4CRFZ6RR7SFKT8T121G8SZXOVUDCFT0EIC8KQ5QSR3EASPKI7QRSO6K00W",
+    "apisecret": "r48ao4t6jz61hu53mu9s5ncpp6toaw5g224ty36u1a4ifi08vrxn6g5z1bb8lsj6",
+    "dualside": true,
+    "nubitaddress": "B7mmVdVQ1SNNcT9zuQRK1B3Cbvo8vHeoB1",
+    "nudip": "178.62.17.173",
+    "nudport": 39865,
+    "priceincrement": "0.001",
+    "rpcpass": "65egunfulewsly821recacalrlar198rel",
+    "rpcuser": "carefully821regular665news198recall",
+    "txfee": "0.2",
+    "sendrpc":true,
+    "executeorders":true,
+    "verbose":false,
+    "pair":"nbt_ppc",
+    "check-balance-interval":45,
+    "check-orders-interval":60,
+    "hipchat":true,
+    "mail-notifications":false,
+    "mail-recipient":"",
+    "emergency-timeout":60,
+    "aggregate":false,
+    "secondary-peg-options":
+        {
+            "main-feed":"btce",
+            "backup-feeds": {
+                "backup1" : { "name" : "coinmarketcap_ne"},
+                "backup2" : { "name" : "coinmarketcap_no"},
+             },
+            "refresh-time":45,
+            "wallchange-treshold": 0.125,
+            "price-distance-threshold":10,       
+            "price-offset":0.375 
+        }
+ }
+}
