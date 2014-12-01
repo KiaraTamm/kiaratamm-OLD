@@ -311,6 +311,7 @@ $.each(bots, function(value) {
 
           //populate template link element
           $(exchangeID + " li." + tradeRange + "_data_link").html('<a href="' + tradeDataLink + '" target="_new">' + tradeDataLinkLabel + '</a>');
+          console.log(tradeDataLink);
 
       });
 

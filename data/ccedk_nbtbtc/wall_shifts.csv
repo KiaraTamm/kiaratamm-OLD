@@ -70,3 +70,31 @@ Sun Nov 30 21:59:47 EST 2014,coinbase,btc,376.39,USD,0.00266213,0.00265151,{ fee
 
 Sun Nov 30 22:02:50 EST 2014,coinbase,btc,377.32,USD,0.00265557,0.00264497,{ feed : coinbase - price : 377.32}  { feed : bitcoinaverage - price : 380.06}  { feed : blockchain - price : 377.39}  { feed : btce - price : 376.7}  
 
+Sun Nov 30 22:06:54 EST 2014,coinbase,btc,376.39,USD,0.00266213,0.00265151,{ feed : coinbase - price : 376.39}  { feed : bitcoinaverage - price : 379.84}  { feed : blockchain - price : 377.26}  { feed : btce - price : 376.251}  
+
+Sun Nov 30 22:09:57 EST 2014,coinbase,btc,377.14,USD,0.00265684,0.00264623,{ feed : coinbase - price : 377.14}  { feed : bitcoinaverage - price : 379.71}  { feed : blockchain - price : 377.1}  { feed : btce - price : 376.251}  
+
+Sun Nov 30 22:17:04 EST 2014,coinbase,btc,376.34,USD,0.00266249,0.00265186,{ feed : coinbase - price : 376.34}  { feed : bitcoinaverage - price : 379.48}  { feed : blockchain - price : 376.3}  { feed : btce - price : 376.0}  
+
+Sun Nov 30 22:21:08 EST 2014,coinbase,btc,375.85,USD,0.00266596,0.00265531,{ feed : coinbase - price : 375.85}  { feed : bitcoinaverage - price : 379.39}  { feed : blockchain - price : 376.3}  { feed : btce - price : 375.924}  
+
+Sun Nov 30 22:24:11 EST 2014,coinbase,btc,377.17,USD,0.00265663,0.00264602,{ feed : coinbase - price : 377.17}  { feed : bitcoinaverage - price : 379.36}  { feed : blockchain - price : 375.81}  { feed : btce - price : 375.5}  
+
+Sun Nov 30 22:27:14 EST 2014,coinbase,btc,375.0,USD,0.002672,0.00266133,{ feed : coinbase - price : 375.0}  { feed : bitcoinaverage - price : 379.15}  { feed : blockchain - price : 374.97}  { feed : btce - price : 375.5}  
+
+Sun Nov 30 22:30:17 EST 2014,coinbase,btc,377.12,USD,0.00265698,0.00264637,{ feed : coinbase - price : 377.12}  { feed : bitcoinaverage - price : 378.71}  { feed : blockchain - price : 377.18}  { feed : btce - price : 375.924}  
+
+Sun Nov 30 22:35:22 EST 2014,coinbase,btc,376.51,USD,0.00266128,0.00265066,{ feed : coinbase - price : 376.51}  { feed : bitcoinaverage - price : 378.26}  { feed : blockchain - price : 376.87}  { feed : btce - price : 375.523}  
+
+Sun Nov 30 22:39:26 EST 2014,coinbase,btc,376.02,USD,0.00266475,0.00265411,{ feed : coinbase - price : 376.02}  { feed : bitcoinaverage - price : 378.31}  { feed : blockchain - price : 376.47}  { feed : btce - price : 375.641}  
+
+Sun Nov 30 22:43:30 EST 2014,coinbase,btc,375.36,USD,0.00266944,0.00265878,{ feed : coinbase - price : 375.36}  { feed : bitcoinaverage - price : 378.08}  { feed : blockchain - price : 375.99}  { feed : btce - price : 375.547}  
+
+Sun Nov 30 22:47:34 EST 2014,coinbase,btc,375.97,USD,0.00266511,0.00265447,{ feed : coinbase - price : 375.97}  { feed : bitcoinaverage - price : 378.44}  { feed : blockchain - price : 374.52}  { feed : btce - price : 375.5}  
+
+Sun Nov 30 22:53:40 EST 2014,coinbase,btc,376.49,USD,0.00266143,0.0026508,{ feed : coinbase - price : 376.49}  { feed : bitcoinaverage - price : 378.29}  { feed : blockchain - price : 375.94}  { feed : btce - price : 375.701}  
+
+Sun Nov 30 22:56:43 EST 2014,coinbase,btc,374.69,USD,0.00267421,0.00266354,{ feed : coinbase - price : 374.69}  { feed : bitcoinaverage - price : 378.43}  { feed : blockchain - price : 375.94}  { feed : btce - price : 375.5}  
+
+Sun Nov 30 23:01:48 EST 2014,coinbase,btc,376.41,USD,0.00266199,0.00265136,{ feed : coinbase - price : 376.41}  { feed : bitcoinaverage - price : 378.59}  { feed : blockchain - price : 374.69}  { feed : btce - price : 376.831}  
+
