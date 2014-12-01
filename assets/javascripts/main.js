@@ -416,7 +416,7 @@ $("#overview table.managed_funds").append('<tr class="grand_total"><td class="le
 
 //update published time
 var writePubTimeClean = writePubTime.substr(0, writePubTime.length-7);
-$('#update_time').text(writePubTimeClean + " GMT"));
+$('#update_time').text(writePubTimeClean + " GMT");
 
 // remove the original template
 $('#market').hide();
