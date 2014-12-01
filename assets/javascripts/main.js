@@ -235,7 +235,9 @@ $.each(bots, function(value) {
           //lowest to highest, to get the range
           buyPrices = buyPrices.split(",");
           buyPrices.sort(function(a,b){
-            return a - b;
+            var va = (a === null) ? "" : "" + a,
+                vb = (b === null) ? "" : "" + b;
+            return va > vb ? 1 : ( va === vb ? 0 : -1 );
           });
 
           //build an array of the sell prices and sort them
@@ -313,7 +315,6 @@ $.each(bots, function(value) {
 
           //populate template link element
           $(exchangeID + " li." + tradeRange + "_data_link").html('<a href="' + tradeDataLink + '" target="_new">' + tradeDataLinkLabel + '</a>');
-          console.log(tradeDataLink);
 
       });
 
