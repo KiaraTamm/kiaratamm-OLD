@@ -266,9 +266,11 @@ $.each(bots, function(value) {
           var avgBuyPrice = parseFloat(sumBuyPrice / countBuy).toFixed(setDecimals);
 
           //populate buy order table
-          var lowBuyPrice = buyPrices[1];
+          var lowBuyPrice = 0;
+          lowBuyPrice = buyPrices[1];
           lowBuyPrice = parseFloat(lowBuyPrice).toFixed(setDecimals);
-          var highBuyPrice = buyPrices[buyPrices.length-1];
+          var highBuyPrice = 0;
+          highBuyPrice = buyPrices[buyPrices.length-1];
           highBuyPrice = parseFloat(highBuyPrice).toFixed(setDecimals);
 
           $(exchangeID + " table." + tradeRange + "_buy").addClass('hasdata').append('<tr><td>' + countBuy + '</td><td>' + rndSumBuy + '</td><td>' + rndSumBuyFee + '</td><td>' + avgBuy + '</td><td>' + avgBuyPrice + '<td>' + lowBuyPrice + '&ndash;' + highBuyPrice + '</td></tr>');

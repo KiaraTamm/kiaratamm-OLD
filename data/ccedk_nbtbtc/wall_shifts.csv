@@ -98,3 +98,5 @@ Sun Nov 30 22:56:43 EST 2014,coinbase,btc,374.69,USD,0.00267421,0.00266354,{ fee
 
 Sun Nov 30 23:01:48 EST 2014,coinbase,btc,376.41,USD,0.00266199,0.00265136,{ feed : coinbase - price : 376.41}  { feed : bitcoinaverage - price : 378.59}  { feed : blockchain - price : 374.69}  { feed : btce - price : 376.831}  
 
+Sun Nov 30 23:34:20 EST 2014,coinbase,btc,375.54,USD,0.00266816,0.00265751,{ feed : coinbase - price : 375.54}  { feed : bitcoinaverage - price : 379.21}  { feed : blockchain - price : 376.49}  { feed : btce - price : 375.4}  
+
