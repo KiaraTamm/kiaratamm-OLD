@@ -1668,3 +1668,19 @@ Sun Nov 30 19:10:08 EST 2014,btce,ppc,0.745,USD,1.35001074,1.3345745,{ feed : bt
 
 Sun Nov 30 19:26:24 EST 2014,btce,ppc,0.739,USD,1.36097158,1.34541001,{ feed : btce - price : 0.739}  { feed : coinmarketcap_ne - price : 0.74292}  { feed : coinmarketcap_no - price : 0.743094}  
 
+Sun Nov 30 19:33:31 EST 2014,btce,ppc,0.744,USD,1.35182527,1.33636828,{ feed : btce - price : 0.744}  { feed : coinmarketcap_ne - price : 0.739268}  { feed : coinmarketcap_no - price : 0.74292}  
+
+Sun Nov 30 19:58:56 EST 2014,btce,ppc,0.739,USD,1.36097158,1.34541001,{ feed : btce - price : 0.739}  { feed : coinmarketcap_ne - price : 0.742119}  { feed : coinmarketcap_no - price : 0.742661}  
+
+Sun Nov 30 20:01:59 EST 2014,btce,ppc,0.744,USD,1.35182527,1.33636828,{ feed : btce - price : 0.744}  { feed : coinmarketcap_ne - price : 0.739312}  { feed : coinmarketcap_no - price : 0.742119}  
+
+Sun Nov 30 20:21:18 EST 2014,btce,ppc,0.739,USD,1.36097158,1.34541001,{ feed : btce - price : 0.739}  { feed : coinmarketcap_ne - price : 0.741389}  { feed : coinmarketcap_no - price : 0.741788}  
+
+Sun Nov 30 20:34:31 EST 2014,btce,ppc,0.744,USD,1.35182527,1.33636828,{ feed : btce - price : 0.744}  { feed : coinmarketcap_ne - price : 0.738622}  { feed : coinmarketcap_no - price : 0.738274}  
+
+Sun Nov 30 20:47:44 EST 2014,btce,ppc,0.729,USD,1.3796406,1.36386557,{ feed : btce - price : 0.729}  { feed : coinmarketcap_ne - price : 0.741728}  { feed : coinmarketcap_no - price : 0.742485}  
+
+Sun Nov 30 20:50:47 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.733306}  { feed : coinmarketcap_no - price : 0.741728}  
+
+Sun Nov 30 21:09:05 EST 2014,btce,ppc,0.737,USD,1.36466486,1.34906106,{ feed : btce - price : 0.737}  { feed : coinmarketcap_ne - price : 0.735663}  { feed : coinmarketcap_no - price : 0.736933}  
+

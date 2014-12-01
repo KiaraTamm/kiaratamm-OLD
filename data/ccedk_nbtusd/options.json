@@ -1,0 +1,26 @@
+{
+    "options": {
+        "aggregate": true, 
+        "apikey": "private", 
+        "apisecret": "private", 
+        "check-balance-interval": 30, 
+        "check-orders-interval": 25, 
+        "dualside": true, 
+        "emergency-timeout": 60, 
+        "exchangename": "ccedk", 
+        "executeorders": true, 
+        "hipchat": true, 
+        "mail-notifications": false, 
+        "mail-recipient": "private", 
+        "nubitaddress": "B7mmVdVQ1SNNcT9zuQRK1B3Cbvo8vHeoB1", 
+        "nudip": "private", 
+        "nudport": "private", 
+        "pair": "nbt_usd", 
+        "priceincrement": "0", 
+        "rpcpass": "private", 
+        "rpcuser": "private", 
+        "sendrpc": true, 
+        "txfee": "0.2", 
+        "verbose": false
+    }
+}

@@ -384,7 +384,7 @@ $('.custodial_fee').text( custFee + ' NBT' );
 $('.fee_percentage').text( '(' + ((custFee / (startingValue - custFee)) * 100).toFixed(2) + '%)' );
 
 var divPaid = parseFloat(sessionStorage.getItem("sumDividends"));
-$('.dividends_paid').text( divPaid );
+$('.dividends_paid').text( divPaid + " NBT" );
 
 var activeExchange = ( parseFloat(sessionStorage.getItem("overviewBuyOrders")) + parseFloat(sessionStorage.getItem("overviewSellOrders")) );
 var activeOffExchange = parseFloat(sessionStorage.getItem("offExchangeHoldings"));
@@ -415,7 +415,8 @@ $("#overview table.managed_funds").append('<tr><td class="left">Dividends Paid</
 $("#overview table.managed_funds").append('<tr class="grand_total"><td class="left">Grand Total</td><td class="right">' + totalFundsOnHand + '</td><td class="right"></td></tr>');
 
 //update published time
-$('#update_time').text(writePubTime);
+var writePubTimeClean = writePubTime.substr(0, writePubTime.length-7);
+$('#update_time').text(writePubTimeClean + " GMT"));
 
 // remove the original template
 $('#market').hide();

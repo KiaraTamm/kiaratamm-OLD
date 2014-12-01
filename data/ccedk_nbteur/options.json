@@ -1,10 +1,10 @@
 {
     "options": {
-        "aggregate": false, 
+        "aggregate": true, 
         "apikey": "private", 
         "apisecret": "private", 
-        "check-balance-interval": 45, 
-        "check-orders-interval": 60, 
+        "check-balance-interval": 30, 
+        "check-orders-interval": 25, 
         "dualside": true, 
         "emergency-timeout": 60, 
         "exchangename": "ccedk", 
@@ -15,24 +15,24 @@
         "nubitaddress": "B7mmVdVQ1SNNcT9zuQRK1B3Cbvo8vHeoB1", 
         "nudip": "private", 
         "nudport": "private", 
-        "pair": "nbt_ppc", 
-        "priceincrement": "0.001", 
+        "pair": "nbt_eur", 
+        "priceincrement": "0.00001", 
         "rpcpass": "private", 
         "rpcuser": "private", 
         "secondary-peg-options": {
             "backup-feeds": {
                 "backup1": {
-                    "name": "coinmarketcap_ne"
+                    "name": "bitstampeurusd"
                 }, 
                 "backup2": {
-                    "name": "coinmarketcap_no"
+                    "name": "openexchangerates"
                 }
             }, 
-            "main-feed": "btce", 
+            "main-feed": "yahoo", 
             "price-distance-threshold": 10, 
-            "price-offset": 0.375, 
-            "refresh-time": 45, 
-            "wallchange-treshold": 0.125
+            "price-offset": 0, 
+            "refresh-time": 65, 
+            "wallchange-treshold": 0.01
         }, 
         "sendrpc": true, 
         "txfee": "0.2", 
