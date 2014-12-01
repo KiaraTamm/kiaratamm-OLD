@@ -418,4 +418,4 @@ $("#overview table.managed_funds").append('<tr class="grand_total"><td class="le
 $('#update_time').text(writePubTime);
 
 // remove the original template
-$('#market').remove();
+$('#market').hide();
