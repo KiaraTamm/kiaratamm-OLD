@@ -1,38 +1,6 @@
 timestamp,source,crypto,price,currency,sellprice,buyprice,otherfeeds
 
-Mon Dec 01 03:05:14 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.740303}  { feed : coinmarketcap_no - price : 0.740303}  
+Mon Dec 01 08:37:33 EST 2014,btce,ppc,0.743,USD,1.35364468,1.33816689,{ feed : btce - price : 0.743}  { feed : coinmarketcap_ne - price : 0.740592}  { feed : coinmarketcap_no - price : 0.741169}  
 
-Mon Dec 01 03:12:21 EST 2014,btce,ppc,0.743,USD,1.35364468,1.33816689,{ feed : btce - price : 0.743}  { feed : coinmarketcap_ne - price : 0.740783}  { feed : coinmarketcap_no - price : 0.741006}  
-
-Mon Dec 01 03:18:27 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.744415}  { feed : coinmarketcap_no - price : 0.740783}  
-
-Mon Dec 01 03:27:36 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.742773}  { feed : coinmarketcap_no - price : 0.743055}  
-
-Mon Dec 01 03:48:57 EST 2014,btce,ppc,0.741,USD,1.35729825,1.34177868,{ feed : btce - price : 0.741}  { feed : coinmarketcap_ne - price : 0.735162}  { feed : coinmarketcap_no - price : 0.734647}  
-
-Mon Dec 01 03:50:59 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.739473}  { feed : coinmarketcap_no - price : 0.735162}  
-
-Mon Dec 01 04:11:19 EST 2014,btce,ppc,0.741,USD,1.35729825,1.34177868,{ feed : btce - price : 0.741}  { feed : coinmarketcap_ne - price : 0.742095}  { feed : coinmarketcap_no - price : 0.74214}  
-
-Mon Dec 01 04:36:44 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.738419}  { feed : coinmarketcap_no - price : 0.741531}  
-
-Mon Dec 01 04:45:53 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.738422}  { feed : coinmarketcap_no - price : 0.738545}  
-
-Mon Dec 01 04:47:55 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.738422}  { feed : coinmarketcap_no - price : 0.738545}  
-
-Mon Dec 01 04:50:58 EST 2014,btce,ppc,0.741,USD,1.35729825,1.34177868,{ feed : btce - price : 0.741}  { feed : coinmarketcap_ne - price : 0.738408}  { feed : coinmarketcap_no - price : 0.738422}  
-
-Mon Dec 01 05:23:30 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.742604}  { feed : coinmarketcap_no - price : 0.742526}  
-
-Mon Dec 01 05:34:41 EST 2014,btce,ppc,0.741,USD,1.35729825,1.34177868,{ feed : btce - price : 0.741}  { feed : coinmarketcap_ne - price : 0.739184}  { feed : coinmarketcap_no - price : 0.739543}  
-
-Mon Dec 01 06:01:07 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.739361}  { feed : coinmarketcap_no - price : 0.743945}  
-
-Mon Dec 01 06:15:21 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.739518}  { feed : coinmarketcap_no - price : 0.739316}  
-
-Mon Dec 01 07:24:29 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.734937}  { feed : coinmarketcap_no - price : 0.73583}  
-
-Mon Dec 01 07:47:52 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.739576}  { feed : coinmarketcap_no - price : 0.739549}  
-
-Mon Dec 01 07:58:02 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.736376}  { feed : coinmarketcap_no - price : 0.735681}  
+Mon Dec 01 09:00:56 EST 2014,btce,ppc,0.738,USD,1.36281572,1.34723306,{ feed : btce - price : 0.738}  { feed : coinmarketcap_ne - price : 0.742573}  { feed : coinmarketcap_no - price : 0.74268}  
 
