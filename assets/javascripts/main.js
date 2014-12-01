@@ -163,8 +163,8 @@ $.each(bots, function(value) {
         var sumSell = 0;
         var sumSellFee = 0;
         var totalFee = 0;
-        //var countBuy = 0;
-        //var countSell = 0;
+        var countBuy = 0;
+        var countSell = 0;
         var sumSellPrice = 0;
         var sumBuyPrice = 0;
 
@@ -187,7 +187,6 @@ $.each(bots, function(value) {
             sumBuyFee += tempTradeObject.fee;
             sumBuyPrice += tempTradeObject.price;
             buyPrices += tempTradeObject.price + ',';
-            console.log(buyPrices);
             ++countBuy;
           } else {
             //iterate over the SELL side totals and calculate the sum
@@ -243,14 +242,18 @@ $.each(bots, function(value) {
           //from lowest to highest, to get the range
           sellPrices = sellPrices.split(",");
           sellPrices.sort(function(a,b){
-            return a - b;
+            var va = (a === null) ? "" : "" + a,
+                vb = (b === null) ? "" : "" + b;
+            return va > vb ? 1 : ( va === vb ? 0 : -1 );
           });
 
 
           //find the earliest and latest timestamps in the 'timestamps' array
           timestamps = timestamps.split(",");
           timestamps.sort(function(a,b){
-            return a - b;
+            var va = (a === null) ? "" : "" + a,
+                vb = (b === null) ? "" : "" + b;
+            return va > vb ? 1 : ( va === vb ? 0 : -1 );
           });
 
           //results
