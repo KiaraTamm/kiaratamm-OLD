@@ -1696,3 +1696,5 @@ Sun Nov 30 22:42:37 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btc
 
 Sun Nov 30 23:00:55 EST 2014,btce,ppc,0.736,USD,1.36651902,1.35089402,{ feed : btce - price : 0.736}  { feed : coinmarketcap_ne - price : 0.736377}  { feed : coinmarketcap_no - price : 0.737172}  
 
+Sun Nov 30 23:17:11 EST 2014,btce,ppc,0.742,USD,1.355469,1.33997035,{ feed : btce - price : 0.742}  { feed : coinmarketcap_ne - price : 0.736435}  { feed : coinmarketcap_no - price : 0.735995}  
+

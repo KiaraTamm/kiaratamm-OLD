@@ -76,13 +76,9 @@ $.each(bots, function(value) {
 // GET CURRENT ORDERS
 //
   var order_path = this + "/latest_orders_history.json";
-  UrlExists(order_path);
   var order_data = this + "/orders_history.csv";
-  UrlExists(order_data);
   var shift_path = this + "/latest_wall_shifts.json";
-  UrlExists(shift_path);
   var shift_data = this + "/wall_shifts.csv";
-  UrlExists(shift_data);
 
   sumOverSellOrders = 0;
   sumOverBuyOrders = 0;
@@ -191,6 +187,7 @@ $.each(bots, function(value) {
             sumBuyFee += tempTradeObject.fee;
             sumBuyPrice += tempTradeObject.price;
             buyPrices += tempTradeObject.price + ',';
+            console.log(buyPrices);
             ++countBuy;
           } else {
             //iterate over the SELL side totals and calculate the sum
