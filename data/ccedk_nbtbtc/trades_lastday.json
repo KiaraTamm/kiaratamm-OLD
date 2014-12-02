@@ -1,5 +1,17 @@
 {
 
+"Trade_13115":{
+"id":"13115",
+"order_id":"null",
+"exchange":"ccedk",
+"pair":"nbtbtc",
+"type":"BUY",
+"price":0.00261366,
+"amount":326.75024465,
+"fee":0.65350048,
+"timestamp":1417545056000
+},
+
 "Trade_12663":{
 "id":"12663",
 "order_id":"null",
@@ -10,17 +22,5 @@
 "amount":1599.99,
 "fee":3.19998,
 "timestamp":1417472807000
-},
-
-"Trade_12516":{
-"id":"12516",
-"order_id":"null",
-"exchange":"ccedk",
-"pair":"nbtbtc",
-"type":"SELL",
-"price":0.00263282,
-"amount":43402.39742937,
-"fee":0.22854139,
-"timestamp":1417458156000
 }
 }
