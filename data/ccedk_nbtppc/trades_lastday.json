@@ -1,14 +1,14 @@
 {
 
-"Trade_12785":{
-"id":"12785",
+"Trade_17198":{
+"id":"17198",
 "order_id":"null",
 "exchange":"ccedk",
 "pair":"nbtppc",
-"type":"BUY",
-"price":1.35642292,
-"amount":35.7391,
-"fee":0.0714782,
-"timestamp":1417497164000
+"type":"SELL",
+"price":1.47079586,
+"amount":139.87845105,
+"fee":0.2797569,
+"timestamp":1418114613000
 }
 }
